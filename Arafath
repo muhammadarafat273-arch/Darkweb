@@ -3,10 +3,11 @@
   <head>
     <title>myWebpage</title>
   </head>
-    <body>
-      <h2>Digital Literacy lcass</h2>
+  <body>
+      <h2>Digital Literacy class</h2>
+      Afath AAA
       <p>Topic</p>
-      <p style=”color:red“>Thr style is attribute of paragraph tag</p>
+      <p style=”color:red“>The style is attribute of paragraph tag</p>
       <span>The element contains tag, attribute and content</span>
       <table border=1>
         <tr>
@@ -15,20 +16,13 @@
           <th>contry</th>
         </tr>
         <tr>
-          <td>Alfreds </td>
-          <td>Futterkiste</td>
+          <td>Alfreds Futterkiste</td>
+          <td>Maria Anders</td>
           <td>Germany</td>
         </tr>
-        </table>
+       </table>
+      <!-- Show picture -->
+      <img src="picture1.jpg" <br>
+      <a href="food_order.html">Open food order page</a>
     </body>
-</html>‹DOCTYPE html>
-<html>
-<head>
-<title>myWebpage</title>
-</head>
-<body>
-<h2>Digital Literacy class</h2>
-<p>Topic</p>
-<p style-"color: red"> The style is attribute of paragraph tag</p>
-<span>The element contains tag, attribute and content</span>
-<- Show picture ->
+   </html>
